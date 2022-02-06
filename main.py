@@ -233,4 +233,4 @@ async def listdesc(ctx,*, arg):
   d = str(arg)
   await ctx.message.channel.send('Your description is now: ' + d)
 
-bot.run("OTM5NjM2Nzg0ODEwMjk5NDQy.Yf7u8w.2J0Z0liaZwA8UO_GpAjifChmhvo")
+bot.run("PUT IN SECRET TOKEN")
